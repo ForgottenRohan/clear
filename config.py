@@ -1,7 +1,7 @@
-﻿BOT_TOKEN = "7771154906:AAGOZnoze9DPFS8ddGQ71r0dAkuBqqQzqdI"  # токен ботика
-CHANNEL_URL = "https://t.me/millonerrrrrrr"  # ссылка канала проверка подписки
-CHANNEL_ID = "-1002072322896"  # айди канала для проверки подписки
-VERIF_CHANNEL_ID = "-1002435215340"  # айди чата для верификации(обсуждение канала с постбеками)
-SUPP = "https://t.me/supporw1n"
-ADMIN_ID = 1400424377 # Ваш айди без скобочек
-PROMO = "MACKVIN" # промокод
+﻿BOT_TOKEN = "TOKEN"  # токен ботика
+CHANNEL_URL = "https://t.me/"  # ссылка канала проверка подписки
+CHANNEL_ID = "-123456456"  # айди канала для проверки подписки
+VERIF_CHANNEL_ID = "-123234325"  # айди чата для верификации(обсуждение канала с постбеками)
+SUPP = "https://t.me/" # поддержка
+ADMIN_ID = 12345678 # Ваш айди без скобочек
+PROMO = "PROMO" # промокод
